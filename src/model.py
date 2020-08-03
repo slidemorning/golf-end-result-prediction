@@ -189,6 +189,3 @@ plt.show()
 
 #scores = model.evaluate(x_test, y_test)
 #print("%s: %.2f%%" %(model.metrics_names[1], scores[1]*100))
-
-
-# 선택적으로 LPF 적용후 실험
